@@ -5,7 +5,7 @@
 package app
 
 import (
-	cliflag "github.com/marmotedu/component-base/pkg/cli/flag"
+	cliflag "github.com/qa-tools-family/go-common-kit/cli/flag"
 )
 
 // CliOptions abstracts configuration options for reading parameters from the

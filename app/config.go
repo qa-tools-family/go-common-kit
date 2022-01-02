@@ -11,7 +11,7 @@ import (
 	"strings"
 
 	"github.com/gosuri/uitable"
-	"github.com/marmotedu/component-base/pkg/util/homedir"
+	"github.com/qa-tools-family/go-common-kit/homedir"
 	"github.com/spf13/cobra"
 	"github.com/spf13/pflag"
 	"github.com/spf13/viper"

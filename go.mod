@@ -4,6 +4,7 @@ go 1.16
 
 require (
 	github.com/fatih/color v1.13.0
+	github.com/gin-gonic/gin v1.7.7 // indirect
 	github.com/gosuri/uitable v0.0.4
 	github.com/json-iterator/go v1.1.12
 	github.com/kr/pretty v0.3.0 // indirect
